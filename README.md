@@ -24,7 +24,7 @@
 
 ### 🎮 시스템 흐름도
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/83e46758-eaee-4b10-ab6f-498bfb2c5055/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/72931375/228586521-20d603a9-a921-41f2-b26b-fc1c7209161c.png)
 
 ---
 
